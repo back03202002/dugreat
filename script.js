@@ -1,4 +1,4 @@
-(() => {
+document.addEventListener('DOMContentLoaded', () => {
   const menuBtn = document.getElementById('menuBtn');
   const siteNav = document.getElementById('siteNav');
 
@@ -132,4 +132,4 @@
   document.addEventListener('keydown', (event) => {
     if (event.key === 'Escape' && lightbox?.classList.contains('open')) closeLightbox();
   });
-})();
+});

@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-DOMAIN/index.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN/breeds.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN/breed-shiba.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN/breed-ragdoll.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN/breed-poodle.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN/breed-frenchbulldog.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN/breed-golden.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN/breed-britishshorthair.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN/breed-americanshorthair.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN/breed-mainecoon.html</loc></url>
-</urlset>
+  <url><loc>https://dugreat.vercel.app/index.html</loc></url>
+  <url><loc>https://dugreat.vercel.app/breeds.html</loc></url>
+  <url><loc>https://dugreat.vercel.app/breed-shiba.html</loc></url>
+  <url><loc>https://dugreat.vercel.app/breed-ragdoll.html</loc></url>
+  <url><loc>https://dugreat.vercel.app/breed-poodle.html</loc></url>
+  <url><loc>https://dugreat.vercel.app/breed-frenchbulldog.html</loc></url>
+  <url><loc>https://dugreat.vercel.app/breed-golden.html</loc></url>
+  <url><loc>https://dugreat.vercel.app/breed-britishshorthair.html</loc></url>
+  <url><loc>https://dugreat.vercel.app/breed-americanshorthair.html</loc></url>
+  <url><loc>https://dugreat.vercel.app/breed-mainecoon.html</loc></url>
+<url><loc>https://dugreat.vercel.app/breed-corgi.html</loc></url><url><loc>https://dugreat.vercel.app/breed-pomeranian.html</loc></url><url><loc>https://dugreat.vercel.app/breed-maltese.html</loc></url><url><loc>https://dugreat.vercel.app/breed-persian.html</loc></url><url><loc>https://dugreat.vercel.app/breed-siamese.html</loc></url><url><loc>https://dugreat.vercel.app/breed-bengal.html</loc></url><url><loc>https://dugreat.vercel.app/breed-chinchilla.html</loc></url><url><loc>https://dugreat.vercel.app/breed-longhaired-dachshund.html</loc></url><url><loc>https://dugreat.vercel.app/breed-siberian.html</loc></url><url><loc>https://dugreat.vercel.app/breed-bichon-frise.html</loc></url></urlset>
